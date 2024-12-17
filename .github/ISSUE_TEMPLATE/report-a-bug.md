@@ -1,6 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Report a bug
+about: You found a bug in Visualkube causing to crash or throw an exception, a widget
+  is buggy, or something looks wrong.
 title: ''
 labels: ''
 assignees: ''
