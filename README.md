@@ -2,7 +2,7 @@
 
 ## Visualkube
 
-(Visualkube)[https://visualkube.com] is a Kubernetes collaboration dashboard for smart DevOps.
+[Visualkube](https://visualkube.com) is a Kubernetes collaboration dashboard for smart DevOps.
 
 ## Users can do two valuable things for the [Visualkube community](https://github.com/infradise/visualkube-community) here:
 
