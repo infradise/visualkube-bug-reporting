@@ -1,21 +1,33 @@
-# Visualkube community
+# Visualkube Community
 
 ## Visualkube
 
 [Visualkube](https://visualkube.com) is a Kubernetes collaboration dashboard for smart DevOps.
 
-## Users can do two valuable things for the [Visualkube community](https://github.com/infradise/visualkube-community) here:
+## Visualkube community
 
-- You can download the Visualkube product.
-- You can report issues with the product.
+[Visualkube community](https://github.com/infradise/visualkube-community) provides the following:
+
+- Reporting and resolving issues with Visualkube
+- Downloading Visualkube
+- Release notes for Visualkube
 
 ## Download
 
 See [Home](https://github.com/infradise/visualkube-community) > [Releases](https://github.com/infradise/visualkube-community/releases)
 
-### Supported platforms
+**To help you understand, we'd like to first mention that Visualkube offers two types of platform groups:**
+- Visualkube Desktop (e.g., macOS, Windows, and Linux)
+  - Both Arm64 and x64 will be available, barring any unavoidable issues.
+- Visualkube Mobile (e.g., iOS and Android)
 
-| Android | iOS | MacOS | Linux | Windows | Web | watchOS | wearOS |
+**Instructions on download and the release notes:**
+- Visualkube Desktop can be downloaded here, but Visualkube Mobile needs to be downloaded from the Apple Store or Google Play.
+Therefore, we'd like to inform you that for Visualkube Mobile, only the release notes are provided here.
+
+**Supported platforms:**
+
+| Android | iOS | macOS | Linux | Windows | Web | watchOS | Wear OS |
 | :-----: | :-: | :---: | :---: | :-----: | :-: | :-----: | :----: |
 |   ✅    | ✅  |  ✅  |  ✅   |   ✅    | ✅  | coming | soon :) |
 
