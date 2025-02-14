@@ -4,6 +4,10 @@
 
 [Visualkube](https://visualkube.com) is a Kubernetes collaboration dashboard for smart DevOps.
 
+- Note: The canonical pronunciation of Visualkube
+  - As the canonical pronunciation of kubectl is "cube control", the canonical pronunciation of Visualkube is "visual cube".
+  - For more information, take a look at [Kubernetes v1.9 changelog](https://github.com/kubernetes/kubernetes/blob/release-1.9/CHANGELOG-1.9.md?plain=1#L1461)
+
 ## Visualkube Docs
 
 [Visualkube online user manual](https://docs.visualkube.com) provides Visualkube documentation, user's guide, faqs, etc.
