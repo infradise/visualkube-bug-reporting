@@ -4,7 +4,7 @@
 
 [Visualkube](https://visualkube.com) is a Kubernetes collaboration dashboard for smart DevOps.
 
-## Visualkube User Manual
+## Visualkube Docs
 
 [Visualkube online user manual](https://docs.visualkube.com) provides Visualkube documentation, user's guide, faqs, etc.
 
