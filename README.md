@@ -8,13 +8,18 @@
 
 [Visualkube online user manual](https://docs.visualkube.com) provides Visualkube documentation, user's guide, faqs, etc.
 
+## Visualkube Tutorial
+
+[Visualkube Youtube channel](https://youtube.com/@visualkube) provides tutorials, shorts, videos, regarding Kubernetes and its ecosystem. 
+
 ## Visualkube Community
 
 [Visualkube community](https://github.com/infradise/visualkube-community) here provides the following:
 
-- Reporting and resolving issues with Visualkube
-- Downloading Visualkube
-- Release notes for Visualkube
+- [Reporting and resolving issues with Visualkube](https://github.com/infradise/visualkube-community/issues/new)
+- [Downloading Visualkube](https://github.com/infradise/visualkube-community/releases)
+  or visit [Visualkube website (English)](https://visualkube.com), [Visualkube website (Korean)](https://visualkube.com/ko/)
+- [Release notes for Visualkube](https://github.com/infradise/visualkube-community/releases/)
 
 ## Download
 
