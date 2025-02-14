@@ -11,7 +11,7 @@ The canonical pronunciation of Visualkube: / ˈvɪʒʊəl kjuːb /, "VIZH-oo-uhl
 - The canonical pronunciation of [kubectl](https://kubernetes.io/docs/reference/kubectl/), which is "cube control".
   (by [Kubernetes v1.9 changelog](https://github.com/kubernetes/kubernetes/blob/release-1.9/CHANGELOG-1.9.md?plain=1#L1461))
 - [KubeCon](http://kubecon.io) is pronounced KYOOB-kon.
-  (by [CNCF Style Guide - 2. Kubernetes](https://github.com/cncf/foundation/blob/main/style-guide.md?plain=1#L27-L43))
+  (by [CNCF Style Guide - 2. Kubernetes](https://github.com/cncf/foundation/blob/main/style-guide.md?plain=1#L42-L43))
 
 ## Visualkube Docs
 
