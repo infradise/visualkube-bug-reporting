@@ -15,7 +15,7 @@ The canonical pronunciation of Visualkube: / ˈvɪʒʊəl kjuːb /, "VIZH-oo-uhl
 
 ## Visualkube Docs
 
-[Visualkube online user manual](https://docs.visualkube.com) provides Visualkube documentation, user's guide, faqs, etc.
+[Visualkube online help documentation](https://docs.visualkube.com) provides Visualkube documentation, tutorial, user manual, user's guide, faqs, etc.
 
 ## Visualkube Tutorial
 
