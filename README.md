@@ -27,7 +27,7 @@ The canonical pronunciation of Visualkube: / ˈvɪʒʊəl kjuːb /, "VIZH-oo-uhl
 
 - [Reporting and resolving issues with Visualkube](https://github.com/infradise/visualkube-community/issues/new)
 - [Downloading Visualkube](https://github.com/infradise/visualkube-community/releases)
-  or visit [Visualkube website (English)](https://visualkube.com), [Visualkube website (Korean)](https://visualkube.com/ko/)
+  or visit [Visualkube website (English)](https://visualkube.com), [Visualkube website (Korean)](https://visualkube.com/ko/), [Visualkube website (Japanese)](https://visualkube.com/ja/), [Visualkube website (Simplified Chinese)](https://visualkube.com/zh-CN/), [Visualkube website (Traditional Chinese)](https://visualkube.com/zh-TW/)
 - [Release notes for Visualkube](https://github.com/infradise/visualkube-community/releases/)
 
 ## Download
