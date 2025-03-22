@@ -6,7 +6,7 @@
 
 ## Visualkube Pronunciation
 
-The canonical pronunciation of Visualkube: / ˈvɪʒʊəl kjuːb /, "VIZH-oo-uhl kyoob"
+The canonical pronunciation of Visualkube: [/vˈɪʒuːə͡l kjˈuːb/](https://ipa-reader.com/?text=v%CB%88%C9%AA%CA%92u%CB%90%C9%99%CD%A1l%20kj%CB%88u%CB%90b) [1], pronounced ` VIZH-oo-uhl kyoob `
 
 - The canonical pronunciation of [kubectl](https://kubernetes.io/docs/reference/kubectl/), which is "cube control".
   (by [Kubernetes v1.9 changelog](https://github.com/kubernetes/kubernetes/blob/release-1.9/CHANGELOG-1.9.md?plain=1#L1461))
@@ -52,6 +52,10 @@ Therefore, we'd like to inform you that for Visualkube Mobile, only the release 
 ## Report an Issue
 
 See [Home](https://github.com/infradise/visualkube-community) > [Issues](https://github.com/infradise/visualkube-community/issues)
+
+## References
+
+[1] IPA translated by [Unalengua](https://unalengua.com/ipa-translate?ttsLocale=en-GB-WLS&voiceId=Geraint&text=Visual%20Kube)
 
 ----
 Copyright 2023-2025 Infradise, Inc. All rights reserved.
