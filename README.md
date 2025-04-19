@@ -2,7 +2,7 @@
 
 ## Visualkube
 
-[Visualkube](https://visualkube.com) is a Kubernetes collaboration dashboard for smart DevOps.
+[Visualkube](https://visualkube.com) is a K8s collaboration dashboard.
 
 ## Visualkube Pronunciation
 
@@ -47,7 +47,7 @@ Therefore, we'd like to inform you that for Visualkube Mobile, only the release 
 
 | Android | iOS | macOS | Linux | Windows | Web | watchOS | Wear OS |
 | :-----: | :-: | :---: | :---: | :-----: | :-: | :-----: | :----: |
-|   ✅    | ✅  |  ✅  |  ✅   |   ✅    | ✅  | coming | soon :) |
+|   ✅    | ✅  |  ✅  |  ✅   |   ✅    | ✅  | planned | planned |
 
 ## Report an Issue
 
