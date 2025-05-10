@@ -2,7 +2,7 @@
 
 ## Visualkube
 
-[Visualkube](https://visualkube.com) is a K8s collaboration dashboard.
+[Visualkube](https://visualkube.com) is a K8s collaborative dashboard.
 
 ## Visualkube Pronunciation
 
